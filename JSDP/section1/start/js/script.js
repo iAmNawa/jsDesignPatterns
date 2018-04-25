@@ -1,4 +1,9 @@
-var o = {
+var jsDesignPatterns = jsDesignPatterns || {};
+jsDesignPatterns.JSDP = jsDesignPatterns.JSDP || {};
+jsDesignPatterns.JSDP.objectLiteral = jsDesignPatterns.JSDP.objectLiteral || {};
+
+
+jsDesignPatterns.JSDP.objectLiteral = {
       leadself: 'Me: ',
       leadcomputer: "PC: ",
       aSaid: ["This is a Cyber Chat"],
